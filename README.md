@@ -1,18 +1,17 @@
-# online quiz
-An online quiz system built on PHP, JS and HTML. It has inbuilt Timer support along with Admin Panel
+Online Quiz System
 
-This project is a great improvement of 'Online-Exam-System-' updated by Roshan Pradhan (https://github.com/Roshu91). Since it was licensed under MIT so I think I have rights to improve and re-distribute it. I have again licensed it under MIT. You are free to modify and re-distribute
+An online quiz system built on PHP, JS, HTML, MySql.This web application was developed for non profit organisations to conduct online Exam for students of various educational institutions, Schools, Colleges, Universities etc.
+This project is simple and easy to implement, updated by Roshan Pradhan (https://github.com/Roshu91).You are free to modify and re-distribute
 
-#Added features: 
+Features: 
 
-1. Added Timer support.
-2. Added control to "Enable" and "Disable" the quiz on the Admin panel
-3. Added control to navigate among all the questions of quiz (during the quiz) and finish the quiz whenever the user wants.
-4. Added control so that user can start the quiz at any time and continue the quiz even if some error or session timeout occurs.
-5. Added control to store the answers to question and show a detailed analysis of the quiz results.
-6. Improved GUI of the quiz panel.
+1. Timer support.
+2. Admin control to "Enable" and "Disable" the quiz.
+3. Registered users can start and finish the quiz at any time.
+4. continue exam option if error occured. 
+5.  Detailed analysis of the quiz results by both admin and registered users.
 
-#Setup:
+Implementation:
 
 1. Create a new database in MySQL.
 2. Run the SQL query in "quizzer.sql".
