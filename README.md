@@ -1,7 +1,7 @@
-# online-quiz-system
+# online quiz
 An online quiz system built on PHP, JS and HTML. It has inbuilt Timer support along with Admin Panel
 
-This project is a great improvement of 'Online-Exam-System-' created by Sunny Prakash Tiwari (https://github.com/sunnygkp10). Since it was licensed under MIT so I think I have rights to improve and re-distribute it. I have again licensed it under MIT. You are free to modify and re-distribute
+This project is a great improvement of 'Online-Exam-System-' updated by Roshan Pradhan (https://github.com/Roshu91). Since it was licensed under MIT so I think I have rights to improve and re-distribute it. I have again licensed it under MIT. You are free to modify and re-distribute
 
 #Added features: 
 
