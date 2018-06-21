@@ -1,7 +1,8 @@
 Online Quiz System
 
 An online quiz system built on PHP, JS, HTML, MySql.This web application was developed for non profit organisations to conduct online Exam for students of various educational institutions, Schools, Colleges, Universities etc.
-This project is simple and easy to implement, updated by Roshan Pradhan (https://github.com/Roshu91).You are free to modify and re-distribute
+This project is simple and easy to implement, updated by Roshan Pradhan (https://github.com/Roshu91).
+You are free to modify and re-distribute
 
 Features: 
 
